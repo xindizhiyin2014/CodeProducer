@@ -9,5 +9,5 @@
 zhangsande18@163.com
 
 ### 微信二维码
-![](./img/myQrCode.png){:width="200px" height="200px"}
+![](./img/myQrCode.png)
 
