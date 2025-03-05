@@ -1,6 +1,6 @@
 # CodeProducer
 
-&emsp;&emsp;Code Producer 是一款为了提高开发效率减少重复劳动的代码生成工具，目前支持yapi接口文档数据转化为代码，原生端已经支持iOS,MacOS等代码生成，swagger接口文档转化代码目前正在调试阶段，后续android，flutter等原生端代码生成都会支持。
+&emsp;&emsp;Code Producer 是一款为了提高开发效率减少重复劳动的代码生成工具，目前支持yapi,swagger接口文档数据转化为代码，原生端已经支持iOS,MacOS等代码生成，后续android，flutter等原生端代码生成都会支持。
 ### 使用教程
 [代码生成器让你告别重复枯燥的工作（一）](https://mp.weixin.qq.com/s/xsldLfuzy3KGYU3-FgAgXw)
 ### 特惠声明
