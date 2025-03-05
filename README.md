@@ -24,9 +24,11 @@ swagger-environment/m1
  
 ### 特惠声明
 目前软件处于内测阶段，为了方便各位读者与粉丝，目前安装软件并通过微信联系作者可以免费获得一年使用资格，先到先得，名额有限。
+### 免费支持
+由于api文档网站配置多种多样，如果目前软件还没有进行支持，可以和我取得联系，免费帮大家支持
 ### 邮箱
 zhangsande18@163.com
 
 ### 微信二维码
-![](./img/myQrCode.png)
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/JRImJNZLud4Pvbw3nBIprzibtVGUkSWb2IWJdBkSPh8puZECQf9SNXcO63dahicRb3ye4A4FIGouXrvJEvV4e1qw/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
